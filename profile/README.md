@@ -57,7 +57,7 @@ Sendmux covers outbound delivery, programmable inboxes, provider routing, delive
 - **Bring your providers.** Connect Gmail, Outlook, SendGrid, Mailgun, Resend, Amazon SES, or any SMTP-compatible provider. Sendmux handles routing, failover, monitoring, and quota guardrails.
 - **Parse inbound email for agents.** Incoming email becomes structured JSON, including the subject, body, attachments, headers, and metadata.
 - **Monitor delivery.** Delivery logs, bounces, complaints, webhooks, and provider health monitoring show what happened and help teams respond quickly.
-- **Weekly reconnect digest (planned).** Active team owners and admins who can manage accounts can receive an email and bell digest of accounts that still need reconnecting. Each team gets at most one digest a week. Reconnected or deleted accounts are excluded before delivery. Notices link to Accounts. The **Accounts needing reconnection** item in notification settings has its own Email and In-app controls.
+- **Weekly reconnect digest.** Active team owners and admins who can manage accounts can receive an email and bell digest of accounts that still need reconnecting. Each team gets at most one digest a week. Reconnected or deleted accounts are excluded before delivery. Notices link to Accounts. The **Accounts needing reconnection** item in notification settings has its own Email and In-app controls.
 
 ## Contributing
 
