@@ -13,10 +13,10 @@ Sendmux is an email API for AI agents and developers. Create programmable inboxe
 | Use the product | [app.sendmux.ai](https://app.sendmux.ai) |
 | Read the docs | [sendmux.ai/docs](https://sendmux.ai/docs) |
 | Manage API keys | [API keys guide](https://sendmux.ai/docs/account/api-keys) |
-| Install the CLI | [Homebrew tap](https://github.com/Sendmux/homebrew-tap) (`brew install sendmux/tap/sendmux`) |
-| Browse all SDKs and tools | [Sendmux SDK monorepo](https://github.com/Sendmux/sendmux-sdk) |
-| Get support | [Support policy](https://github.com/Sendmux/.github/blob/main/SUPPORT.md) |
-| Report a vulnerability | [Security policy](https://github.com/Sendmux/.github/blob/main/SECURITY.md) |
+| Install the CLI | [Homebrew tap](https://github.com/qubrics/homebrew-tap) (`brew install qubrics/tap/sendmux`) |
+| Browse all SDKs and tools | [Sendmux SDK monorepo](https://github.com/qubrics/qubrics-sdk) |
+| Get support | [Support policy](https://github.com/qubrics/.github/blob/main/SUPPORT.md) |
+| Report a vulnerability | [Security policy](https://github.com/qubrics/.github/blob/main/SECURITY.md) |
 
 ## SDKs and developer tools
 
@@ -28,7 +28,7 @@ Sendmux is an email API for AI agents and developers. Create programmable inboxe
 | Rust | [`sendmux`](https://crates.io/crates/sendmux) (`cargo add sendmux`) |
 | PHP | [`sendmux/sdk`](https://packagist.org/packages/sendmux/sdk) |
 | Ruby | [`sendmux-sdk`](https://rubygems.org/gems/sendmux-sdk) |
-| CLI | [Homebrew](https://github.com/Sendmux/homebrew-tap) or [`@sendmux/cli`](https://www.npmjs.com/package/@sendmux/cli) |
+| CLI | [Homebrew](https://github.com/qubrics/homebrew-tap) or [`@sendmux/cli`](https://www.npmjs.com/package/@sendmux/cli) |
 
 The SDK monorepo also contains focused packages for sending, mailbox, and management workflows.
 
@@ -45,7 +45,7 @@ The SDK monorepo also contains focused packages for sending, mailbox, and manage
 | --- | --- | --- |
 | Model Context Protocol (MCP) | Hosted OAuth access and a local `sendmux-mcp` package for mailbox, management, and sending tools | [MCP docs](https://sendmux.ai/docs/ai-integrations/mcp) |
 | Agent2Agent (A2A) Protocol 1.0 | A hosted OAuth-protected HTTP+JSON agent for mailbox, management, and sending operations | [A2A docs](https://sendmux.ai/docs/ai-integrations/a2a) and [Agent Card](https://a2a.sendmux.ai/.well-known/agent-card.json) |
-| Agent skills | Installable Sendmux workflows for coding agents | [Sendmux skills](https://github.com/Sendmux/skills) |
+| Agent skills | Installable Sendmux workflows for coding agents | [Sendmux skills](https://github.com/qubrics/skills) |
 
 ## Why Sendmux
 
@@ -63,7 +63,7 @@ Sendmux covers outbound delivery, programmable inboxes, provider routing, delive
 
 Organisation defaults live in this repository and apply to Sendmux repositories that do not define their own files.
 
-- Read the [contributing guidelines](https://github.com/Sendmux/.github/blob/main/CONTRIBUTING.md) before opening a pull request.
+- Read the [contributing guidelines](https://github.com/qubrics/.github/blob/main/CONTRIBUTING.md) before opening a pull request.
 - Use the issue templates so maintainers receive the details needed to triage quickly.
 - Never paste API keys, passwords, tokens, webhook secrets, customer data, or private account details into GitHub.
-- Report vulnerabilities through the [security policy](https://github.com/Sendmux/.github/blob/main/SECURITY.md), not public issues.
+- Report vulnerabilities through the [security policy](https://github.com/qubrics/.github/blob/main/SECURITY.md), not public issues.

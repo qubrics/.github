@@ -8,7 +8,7 @@ Thanks for taking the time to improve Sendmux projects.
 - Search existing issues and pull requests.
 - For bugs, use the bug report template and include a minimal reproduction.
 - For documentation issues, link the affected page or section.
-- For security issues, follow [SECURITY.md](https://github.com/Sendmux/.github/blob/main/SECURITY.md) instead of opening a public issue.
+- For security issues, follow [SECURITY.md](https://github.com/qubrics/.github/blob/main/SECURITY.md) instead of opening a public issue.
 
 ## Issues
 
