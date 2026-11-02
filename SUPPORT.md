@@ -19,5 +19,5 @@ Include:
 
 ## Security
 
-Report suspected vulnerabilities through [SECURITY.md](https://github.com/Sendmux/.github/blob/main/SECURITY.md), not public issues.
+Report suspected vulnerabilities through [SECURITY.md](https://github.com/qubrics/.github/blob/main/SECURITY.md), not public issues.
 

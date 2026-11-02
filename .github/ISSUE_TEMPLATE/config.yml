@@ -7,6 +7,6 @@ contact_links:
     url: https://sendmux.ai/docs
     about: Read the public Sendmux documentation.
   - name: Security reports
-    url: https://github.com/Sendmux/.github/blob/main/SECURITY.md
+    url: https://github.com/qubrics/.github/blob/main/SECURITY.md
     about: Report suspected vulnerabilities privately.
 
