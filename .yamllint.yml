@@ -1,0 +1,3 @@
+# Syntax is always checked; duplicate keys can silently replace form settings.
+rules:
+  key-duplicates: enable
