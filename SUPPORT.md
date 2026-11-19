@@ -2,7 +2,7 @@
 
 ## Product and account support
 
-For product help, account-specific questions, or private workspace details, email [contact@sendmux.ai](mailto:contact@sendmux.ai).
+For product help, account-specific questions, or private workspace details, email [contact@qubrics.com](mailto:contact@qubrics.com).
 
 Do not put API keys, passwords, tokens, webhook secrets, customer data, private account details, or full production payloads in GitHub issues.
 
