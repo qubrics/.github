@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report suspected vulnerabilities by email: [contact@sendmux.ai](mailto:contact@sendmux.ai).
+Please report suspected vulnerabilities by email: [security@qubrics.com](mailto:security@qubrics.com).
 
 Do not open a public GitHub issue for security reports. Do not paste API keys, passwords, tokens, webhook secrets, customer data, or private account details into GitHub.
 
@@ -20,7 +20,7 @@ If the report needs sensitive details, say that in the email and we will arrange
 
 ## Scope
 
-Supported scope covers current public Sendmux repositories, released SDK and tooling packages, and current public documentation.
+Supported scope covers current public Qubrics repositories, released SDK and tooling packages, and current public documentation.
 
 ## Response
 
