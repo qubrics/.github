@@ -27,7 +27,7 @@ Qubrics is an email API for AI agents and developers. Create programmable inboxe
 | Go | [`sendmux.ai/go/v3`](https://pkg.go.dev/sendmux.ai/go/v3) |
 | Rust | [`sendmux`](https://crates.io/crates/sendmux) (`cargo add sendmux`) |
 | PHP | [`qubrics/sdk`](https://packagist.org/packages/qubrics/sdk) |
-| Ruby | [`sendmux-sdk`](https://rubygems.org/gems/sendmux-sdk) |
+| Ruby | [`qubrics-sdk`](https://rubygems.org/gems/qubrics-sdk) |
 | CLI | [`@qubrics/cli`](https://www.npmjs.com/package/@qubrics/cli) or [Homebrew](https://github.com/qubrics/homebrew-tap) |
 
 The SDK monorepo also contains focused packages for sending, mailbox, and management workflows.
@@ -43,7 +43,7 @@ The SDK monorepo also contains focused packages for sending, mailbox, and manage
 
 | Surface | What it provides | Link |
 | --- | --- | --- |
-| Model Context Protocol (MCP) | Hosted OAuth access and a local `sendmux-mcp` package for mailbox, management, and sending tools | [MCP docs](https://qubrics.com/docs/ai-integrations/mcp) |
+| Model Context Protocol (MCP) | Hosted OAuth access, or local Python [`qubrics-mcp`](https://pypi.org/project/qubrics-mcp/) and Node.js [`sendmux-mcp`](https://www.npmjs.com/package/sendmux-mcp) packages for mailbox, management, and sending tools | [MCP docs](https://qubrics.com/docs/ai-integrations/mcp) |
 | Agent2Agent (A2A) Protocol 1.0 | A hosted OAuth-protected HTTP+JSON agent for mailbox, management, and sending operations | [A2A docs](https://qubrics.com/docs/ai-integrations/a2a) and [Agent Card](https://a2a.qubrics.com/.well-known/agent-card.json) |
 | Agent skills | Installable Qubrics workflows for coding agents | [Qubrics skills](https://github.com/qubrics/skills) |
 
