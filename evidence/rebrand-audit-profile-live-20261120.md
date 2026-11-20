@@ -2,7 +2,7 @@
 
 Live/origin profile at c860eb9d still recommended the Ruby `sendmux-sdk` pointer and described a local `sendmux-mcp` without its ecosystem. The earlier audit fix preserved compatibility names; the published Ruby/Python releases now make that recommendation stale.
 
-Official registry readbacks on20November2026 confirmed:
+Official registry readbacks on 20 November 2026 confirmed:
 
 - https://rubygems.org/api/v1/gems/qubrics-sdk.json — name `qubrics-sdk`, version `3.0.0`.
 - https://pypi.org/pypi/qubrics-mcp/json — name `qubrics-mcp`, version `3.0.0`.
