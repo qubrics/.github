@@ -23,9 +23,9 @@ Qubrics is an email API for AI agents and developers. Create programmable inboxe
 | Language or tool | Package |
 | --- | --- |
 | TypeScript | [`@qubrics/sdk`](https://www.npmjs.com/package/@qubrics/sdk) |
-| Python | [`sendmux-sdk`](https://pypi.org/project/sendmux-sdk/) |
-| Go | [`sendmux.ai/go/v3`](https://pkg.go.dev/sendmux.ai/go/v3) |
-| Rust | [`sendmux`](https://crates.io/crates/sendmux) (`cargo add sendmux`) |
+| Python | [`qubrics-sdk`](https://pypi.org/project/qubrics-sdk/) |
+| Go | [`qubrics.com/go/v4`](https://pkg.go.dev/qubrics.com/go/v4) |
+| Rust | [`qubrics`](https://crates.io/crates/qubrics) (`cargo add qubrics`) |
 | PHP | [`qubrics/sdk`](https://packagist.org/packages/qubrics/sdk) |
 | Ruby | [`qubrics-sdk`](https://rubygems.org/gems/qubrics-sdk) |
 | CLI | [`@qubrics/cli`](https://www.npmjs.com/package/@qubrics/cli) or [Homebrew](https://github.com/qubrics/homebrew-tap) |
@@ -37,7 +37,7 @@ The SDK monorepo also contains focused packages for sending, mailbox, and manage
 | Framework | Integration | Install |
 | --- | --- | --- |
 | Vercel AI SDK | [`@qubrics/ai-sdk`](https://www.npmjs.com/package/@qubrics/ai-sdk) provides tools for agent inboxes and sending | `npm install @qubrics/ai-sdk ai zod` |
-| LangChain | [`langchain-sendmux`](https://pypi.org/project/langchain-sendmux/) provides a Qubrics toolkit for agent inboxes and sending | `pip install langchain-sendmux` |
+| LangChain | [`langchain-qubrics`](https://pypi.org/project/langchain-qubrics/) provides a Qubrics toolkit for agent inboxes and sending | `pip install langchain-qubrics` |
 
 ## Agent protocols and tools
 
